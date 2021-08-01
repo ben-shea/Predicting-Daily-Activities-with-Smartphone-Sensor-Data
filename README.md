@@ -1,0 +1,1 @@
+# Predicting-Daily-Activities-with-Smartphone-Sensor-Data
